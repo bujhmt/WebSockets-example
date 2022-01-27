@@ -1,0 +1,17 @@
+.chat {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input-message {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin-top: 10px;
+}
